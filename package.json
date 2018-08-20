@@ -1,0 +1,16 @@
+{
+  "name": "chatbot-app",
+  "version": "0.0.1",
+  "author": "Keshav Kishlay",
+  "scripts": {
+    "start": "node ."
+  },
+  "main": "lib",
+  "standard": {},
+  "dependencies": {
+    "express": "4.13.1",
+    "request-promise": "2.0.1",
+    "socket.io": "1.4.5"
+  },
+  "devDependencies": {}
+}
